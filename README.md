@@ -1,6 +1,6 @@
 # Basic--Dev-Notes
 
-## Acessar O Site: 
+## Link Para Acessar: 
 https://dev-notes-project.vercel.app/
 
 
