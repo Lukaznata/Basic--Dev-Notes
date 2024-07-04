@@ -1,3 +1,4 @@
 # DevNotes
-Link to project: https://dev-notes-project.vercel.app/
-This project uses Browser's localStorage to store users' data.
+Link para o deploy: https://dev-notes-project.vercel.app/
+Este projeto serve para armazenar textos no browser. Podendo adicionar filtrar, excluir e fixar.
+
