@@ -1,3 +1,3 @@
 # DevNotes
-Link to project: dev-notes-project-lukaznata.vercel.app
+Link to project: https://dev-notes-project.vercel.app/
 This project uses Browser's localStorage to store users' data.
